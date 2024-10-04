@@ -42,7 +42,7 @@
 
         <h3>El resultado del incremento de la variable num1 es: </h3>
         <?php
-        print "El incremento  de $num1 es: ";
+        print "El incremento  de \$num1 cuyo valor es $num1, es: ";
         echo incremento($num1);
         ?>
 
