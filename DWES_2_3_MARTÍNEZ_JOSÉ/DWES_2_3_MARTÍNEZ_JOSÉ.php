@@ -7,7 +7,7 @@
         <?php
         require_once './funciones.inc.php';
         //definicion de variables
-        $num1 = 5;
+        $num1 = "5";
         $num2 = 3;
         ?>
         <h3>El resultado de la suma de las variables num1 y num2 es: </h3>
