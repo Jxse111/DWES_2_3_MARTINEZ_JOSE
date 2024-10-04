@@ -17,7 +17,7 @@ function multiplicacion($var1, $var2) {
 
 function division($var1, $var2) {
     $resultado = $var1 / $var2;
-    return $resultado;
+    return sprintf("%.2f", $resultado);
 }
 
 function resto($var1, $var2) {
